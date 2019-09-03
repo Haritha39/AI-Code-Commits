@@ -1,0 +1,12 @@
+{
+    "flask":{
+        "host":"localhost",
+        "port":"5000"
+
+    },
+    "git" :{
+        "username" : "admin" ,
+        "password" : "zAaxds2Fq4bwGC3-xgan" ,
+        "projects_directory" : "hostingFolder/"
+    }   
+}

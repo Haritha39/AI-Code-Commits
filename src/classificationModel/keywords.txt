@@ -1,0 +1,840 @@
+Numpy
+Scipy
+Scikit-learn
+Theano
+TensorFlow
+Keras
+PyTorch
+Pandas
+Matplotlib
+seaborn
+torch
+ 
+MLpack C++ Library
+C++ Boost Library
+dlib
+TensorFlow
+Microsoft CNTK
+Caffe
+Accord.NET
+
+
+Spark MLlib
+naive-apl
+Darknet
+Recommender
+Hybrid Recommender System 
+
+neonrvm
+CCV
+VLFeat
+
+DLib
+EBLearn
+OpenCV 
+VIGRA 
+
+
+
+
+
+
+
+
+BanditLib
+Caffe
+CatBoost 
+CNTK  
+CUDA 
+DeepDetect 
+Distributed Machine learning Tool Kit (DMTK) 
+DLib 
+DSSTNE 
+DyNet
+Fido 
+igraph
+Intel(R) DAAL 
+LightGBM 
+libfm 
+MLDB 
+mlpack
+MXNet
+proNet-core
+PyCUDA
+ROOT
+shark
+Shogun
+sofia-ml
+Stan
+Timbl
+Vowpal Wabbit (VW)
+Warp-CTC
+XGBoost
+ThunderGBM
+ThunderSVM
+LKYDeepNN
+xLearn
+Featuretools
+skynet
+Feast
+Polyaxon
+
+Natural Language Processing
+BLLIP Parser
+colibri-core
+CRF++
+CRFsuite
+frog
+libfolia
+MeTA
+MIT Information Extraction Toolkit
+ucto 
+
+Speech Recognition
+Kaldi 
+
+Sequence Analysis
+ToPS
+
+Gesture Detection
+grt
+
+Common Lisp
+
+General-Purpose Machine Learning
+mgl
+mgl-gpr
+cl-libsvm
+cl-online-learning
+cl-random-forest
+
+Clojure
+
+Natural Language Processing
+Clojure-openNLP 
+Infections-clj 
+
+Touchstone
+Clojush
+Infer
+Clj-ML
+DL4CLJ
+Encog
+Fungp
+Statistiker
+clortex
+comportex
+cortex
+lambda-ml
+Incanter
+PigPen
+Envision
+machine
+crystal-fann
+Simple Bayes
+emel
+Stemmer
+Disco
+Yanni
+go-porterstemmer
+paicehusk
+snowball
+Textbox
+go-ngram
+word-embedding
+sentences
+eaopt
+Go Learn
+go-pr
+go-ml
+bayesian
+go-galib
+Cloudforest
+gobrain
+GoNN
+go-mxnet-predictor
+neat
+go-ml-transpiler
+therfoo
+go-graph
+SVGo
+RF
+Glot
+Facebox
+Tagbox
+Nudebox
+haskell-ml
+HLearn
+hnn
+hopfield-networks
+DNNGraph
+LambdaNet
+Cortical.io
+IRIS
+CoreNLP
+Stanford Parser
+Stanford POS Tagger
+Stanford Name Entity Recognizer
+Stanford Word Segmenter
+Tregex, Tsurgeon and Semgrex
+Stanford English Tokenizer
+Stanford Tokens Regex
+Stanford Temporal Tagger
+Stanford SPIED
+Stanford Topic Modeling Toolbox
+Twitter Text Java
+MALLET
+OpenNLP
+LingPipe
+ClearTK
+Apache cTAKES
+NLP4J
+CogcompNLP
+aerosolve
+AMIDST Toolbox
+Datumbox
+ELKI
+Encog
+FlinkML in Apache Flink
+H2O
+htm.java
+liblinear-java
+Mahout
+Meka
+MLlib in Apache Spark
+Hydrosphere Mist
+Neuroph
+ORYX
+RankLib
+rapaio
+RapidMiner
+Stanford Classifier
+SmileMiner
+SystemML
+Weka
+LBJava
+CMU Sphinx
+Flink
+Hadoop
+Onyx
+Spark
+Storm
+Impala
+DataMelt
+Deeplearning4j
+Keras Beginner Tutorial
+Twitter-text
+natural
+Knwl.js
+Retext
+NLP Compromise
+nlp.js
+D3xter
+statkit
+datakit
+science.js
+Z3d
+Sigma.js
+C3.js
+Datamaps
+ZingChart
+cheminfo
+Nivo
+Auto ML
+Convnet.js
+Clusterfck
+Clustering.js
+Decision Trees
+DN2A
+figue
+Gaussian Mixture Model
+Node-fann
+Keras.js
+Kmeans.js
+LDA.js
+Learning.js
+machinelearn.js
+mil-tokyo
+Node-SVM
+Brain
+Brain.js
+Bayesian-Bandit
+Synaptic
+kNear
+NeuralN
+kalman
+shaman
+ml.js
+ml5
+Pavlov.js
+MXNet
+TensorFlow.js
+JSMLT
+xgboost-node
+Netron
+WebDNN
+stdlib
+sylvester
+simple-statistics
+regression-js
+Lyric
+GreatCircle
+MLPleaseHelp
+The Bot
+Half Beer
+MachineLearning
+MLBase
+PGM
+DA
+Regression
+Local Regression
+Naive Bayes
+Mixed Models
+Simple MCMC
+Distances
+Decision Tree
+Neural
+MCMC
+Mamba
+GLM
+Gaussian Processes
+GLMNet
+Clustering
+SVM
+Kernel Density
+MultivariateStats
+NMF
+ANN
+Mocha
+XGBoost
+ManifoldLearning
+MXNet
+Merlin
+ROCAnalysis
+GaussianMixtures
+ScikitLearn
+Knet
+Flux
+Topic Models
+Text Analysis
+Word Tokenizers
+Corpus Loaders
+Embeddings
+Languages
+WordNet
+Graph Layout
+LightGraphs
+Data Frames Meta
+Julia Data
+Data Read
+Hypothesis Tests
+Gadfly
+Stats
+RDataSets
+DataFrames
+Distributions
+Data Arrays
+Time Series
+Sampling
+DSP
+JuliaCon Presentations
+SignalProcessing
+Images
+DataDeps
+cephes
+autograd
+graph
+randomkit
+signal
+nn
+torchnet
+nngraph
+nnx
+rnn
+dpnn
+dp
+optim
+unsup
+manifold
+svm
+lbfgs
+vowpalwabbit
+OpenGM
+spaghetti
+LuaSHKit
+kernel smoothing
+cutorch
+cunn
+imgraph
+videograph
+saliency
+stitch
+sfm
+fex
+OverFeat
+wav2letter
+Lua
+Music Tagging
+torch-datasets
+Atari2600
+Contourlets
+Shearlets
+Curvelets
+Bandlets
+mexopencv
+NLP
+Training a deep autoencoder or a classifier on MNIST digits
+Convolutional-Recursive Deep Learning for 3D Object Classification
+Spider
+LibSVM
+ThunderSVM
+LibLinear
+Machine Learning Module
+Caffe
+Pattern Recognition Toolbox
+Pattern Recognition and Machine Learning
+Optunity
+MXNet
+Machine Learning in MatLab/Octave
+matlab_bgl
+gaimc
+OpenCVDotNet
+Emgu CV
+AForge.NET
+Accord.NET
+Stanford.NLP for .NET
+Accord.MachineLearning
+DiffSharp
+Encog
+GeneticSharp
+Infer.NET
+ML.NET
+Neural Network Designer
+Vulpes
+numl
+Math.NET Numerics
+Sho
+YCML
+MLPNeuralNet
+MAChineLearning
+BPN-NeuralNetwork
+Multi-Perceptron-NeuralNetwork
+KRHebbian-Algorithm
+KRKmeans-Algorithm
+KRFuzzyCMeans-Algorithm
+Oml
+GPR
+Libra-Tk
+TensorFlow
+jieba-php
+PHP-ML
+PredictionBuilder
+Rubix ML
+19 Questions
+Scikit-Image
+SimpleCV
+Vigranumpy
+OpenFace
+PCV
+face_recognition
+dockerface
+Detectron
+albumentations
+pytessarct
+imutils
+PyTorchCV
+pkuseg-python
+NLTK
+Pattern
+Quepy
+TextBlob
+YAlign
+jieba
+SnowNLP
+spammy
+loso
+genius
+KoNLPy
+nut
+Rosetta
+BLLIP Parser
+PyNLPl
+python-ucto
+python-frog
+python-zpar
+colibri-core
+spaCy
+PyStanfordDependencies
+Distance
+Fuzzy Wuzzy
+jellyfish
+editdistance
+textacy
+stanford-corenlp-python
+CLTK
+rasa_nlu
+yase
+Polyglot
+DrQA
+Dedupe
+Snips NLU
+NeuroNER
+DeepPavlov
+BigARTM
+CNTK
+auto_ml
+machine learning
+XGBoost
+Apache SINGA
+Bayesian Methods for Hackers
+MLlib in Apache Spark
+Hydrosphere Mist
+scikit-learn
+metric-learn
+astroML
+graphlab-create
+BigML
+pattern
+NuPIC
+Pylearn2
+keras
+Lasagne
+hebel
+Chainer
+prophet
+gensim
+topik
+PyBrain
+Brainstorm
+Surprise
+Crab
+python-recsys
+thinking bayes
+Image-to-Image Translation with Conditional Adversarial Networks
+Bolt
+CoverTree
+nilearn
+neuropredict
+imbalanced-learn
+Shogun
+Pyevolve
+Caffe
+breze
+pyhsmm
+mrjob
+SKLL
+Spearmint
+Pebl
+Theano
+TensorFlow
+pomegranate
+python-timbl
+deap
+pydeep
+mlxtend
+neon
+Optunity
+Neural Networks and Deep Learning
+Annoy
+TPOT
+DIGITS
+Orange
+MXNet
+milk
+TFLearn
+REP
+rgf_python
+skbayes
+fuku-ml
+Xcessiv
+PyTorch
+ML-From-Scratch
+Edward
+xRBM
+CatBoost
+stacked_generalization
+modAL
+Parris
+neonrvm
+Turi Create
+xLearn
+mlens
+Netron
+Thampi
+MindsDB
+Gorgonia
+SciPy
+NumPy
+Numba
+Mars
+NetworkX
+igraph
+Pandas
+Open Mining
+PyMC
+zipline
+PyDy
+SymPy
+statsmodels
+astropy
+matplotlib
+bokeh
+plotly
+altair
+d3py
+PyDexter
+ggplot
+ggfortify
+Kartograph.py
+pygal
+PyQtGraph
+Petrel
+Blaze
+emcee
+windML
+vispy
+Seaborn
+bqplot
+pastalog
+Superset
+Dora
+Ruffus
+SOMPY
+HDBScan
+visualize_ML
+scikit-plot
+Bowtie
+lime
+PyCM
+Dash
+Lambdo
+TensorWatch
+BioPy
+SVM Explorer
+data-science-ipython-notebooks
+Sarah Palin LDA
+Diffusion Segmentation
+Scipy Tutorials
+Crab
+BayesPy
+scikit-learn tutorials
+sentiment-analyzer
+sentiment_classifier
+group-lasso
+jProcessing
+mne-python-notebooks
+Neon Course
+pandas cookbook
+climin
+Allen Downey’s Data Science Course
+Allen Downey’s Think Bayes Code
+Allen Downey’s Think Complexity Code
+Allen Downey’s Think OS Code
+Python Programming for the Humanities
+GreatCircle
+Optunity examples
+Dive into Machine Learning with Python Jupyter notebook and scikit-learn
+TDB
+Suiron
+Introduction to machine learning with scikit-learn
+Practical XGBoost in Python
+Introduction to Machine Learning with Python
+Pydata book
+Homemade Machine Learning
+Prodmodel
+the-elements-of-statistical-learning
+NeuralTalk
+Neuron
+Data Driven Code
+open-solution-googleai-object-detection -> source code and experiments results for Google AI Open Images
+wiki challenge
+kaggle insults
+kaggle_acquire-valued-shoppers-challenge
+kaggle-cifar
+kaggle-blackbox
+kaggle-accelerometer
+kaggle-advertised-salaries
+kaggle amazon
+kaggle-bestbuy_big
+Kaggle Dogs vs. Cats
+Kaggle Galaxy Challenge
+Kaggle Gender
+Kaggle Merck
+Kaggle Stackoverflow
+kaggle_acquire-valued-shoppers-challenge
+wine-quality
+DeepMind Lab
+Gym
+Serpent.AI
+ViZDoom
+Roboschool
+Retro
+SLM Lab
+Coach
+Awesome NLP with Ruby
+Treat
+Stemmer
+Raspel
+UEA Stemmer
+Twitter-text-rb
+Awesome Machine Learning with Ruby
+Ruby Machine Learning
+jRuby Mahout
+CardMagic-Classifier
+rb-libsvm
+Scoruby
+rsruby
+data-visualization-ruby
+ruby-plot
+plot-rb
+scruffy
+Glean
+Listof
+deeplearn-rs
+rustlearn
+rusty-machine
+leaf
+RustNN
+RusticSOM
+ahaz
+arules
+biglasso
+bmrm
+Boruta
+bst
+C50
+caret
+caretEnsemble
+CatBoost
+CORElearn
+CoxBoost
+Cubist
+e1071
+earth
+elasticnet
+ElemStatLearn
+evtree
+forecast
+forecastHybrid
+fpc
+frbs
+GAMBoost
+gamboostLSS
+gbm
+glmnet
+glmpath
+GMMBoost
+grplasso
+grpreg
+h2o
+hda
+ipred
+kernlab
+klaR
+L0Learn
+lars
+lasso2
+LiblineaR
+LogicReg
+maptree
+mboost
+medley
+mlr
+ncvreg
+nnet
+pamr
+party
+partykit
+penalized
+penalizedLDA
+penalizedSVM
+quantregForest
+randomForest
+randomForestSRC
+rattle
+rda
+rdetools
+REEMtree
+relaxo
+rgenoud
+Rmalschains
+rminer
+ROCR
+RoughSets
+rpart
+RPMM
+RSNNS
+RWeka
+RXshrink
+sda
+spectralGraphTopology
+SuperLearner
+svmpath
+tgp
+tree
+varSelRF
+XGBoost.R
+Optunity
+igraph
+MXNet
+TDSP-Utilities
+ggplot2
+Visual Data Mining and Machine Learning
+Enterprise Miner
+Factory Miner
+SAS/STAT
+University Edition
+Contextual Analysis
+Sentiment Analysis
+Text Miner
+ML_Tables
+enlighten-apply
+enlighten-integration
+enlighten-deep
+dm-flow
+ScalaNLP
+Breeze
+Chalk
+FACTORIE
+Montague
+Spark NLP
+MLlib in Apache Spark
+Hydrosphere Mist
+Scalding
+Summing Bird
+Algebird
+xerial
+PredictionIO
+BIDMat
+Flink
+Spark Notebook
+DeepLearning.scala
+Conjecture
+brushfire
+ganitha
+adam
+bioscala
+BIDMach
+Figaro
+H2O Sparkling Water
+FlinkML in Apache Flink
+DynaML
+Saul
+SwiftLearner
+Smile
+doddle-model
+TensorFlow Scala
+layer
+Bender
+Swift AI
+BrainCore
+swix
+AIToolbox
+MLKit
+Swift Brain
+Perfect TensorFlow
+PredictionBuilder
+Awesome CoreML
+Awesome Core ML Models
+Awesome TensorFlow
+Golden TensorFlow

@@ -1,0 +1,56 @@
+text,label
+" erlang  :  disco yanni ",__label__1
+" javascript  :  twitter-text natural knwl.js retext nlp compromise nlp.js ",__label__2
+" numpic  :   ",__label__1
+" go  :  go-porterstemmer paicehusk snowball textbox go-ngram word-embedding sentences eaopt go learn go-pr go-ml bayesian go-galib cloudforest gobrain gonn go-mxnet-predictor neat go-ml-transpiler therfoo go-graph svgo rf glot facebox tagbox nudebox ",__label__2
+" python  :  touchstone clojush infer clj-ml dl4clj encog fungp statistiker clortex comportex cortex lambda-ml incanter pigpen envision ",__label__1
+" anychart  :   ",__label__2
+" ruby  :  awesome nlp with ruby treat stemmer raspel uea stemmer twitter-text-rb awesome machine learning with ruby ruby machine learning jruby mahout cardmagic-classifier rb-libsvm scoruby rsruby data-visualization-ruby ruby-plot plot-rb scruffy ",__label__1
+" sciruby  :  glean ",__label__2
+" elixir  :  simple bayes emel stemmer ",__label__1
+" dc.js  :   ",__label__2
+" scilua  :  lua ",__label__1
+" scala  :  scalanlp breeze chalk factorie montague spark nlp mllib in apache spark hydrosphere mist scalding summing bird algebird xerial predictionio bidmat flink spark notebook deeplearning.scala conjecture brushfire ganitha adam bioscala bidmach figaro h2o sparkling water flinkml in apache flink dynaml saul swiftlearner smile doddle-model tensorflow scala ",__label__2
+" saliency-networks  :  music tagging torch-datasets ",__label__1
+" train-autoencoder  :   ",__label__2
+" nvd3.js  :   ",__label__1
+" kaggle-bestbuy_small  :  kaggle dogs vs. cats kaggle galaxy challenge kaggle gender kaggle merck kaggle stackoverflow kaggle_acquire-valued-shoppers-challenge wine-quality deepmind lab gym serpent.ai vizdoom roboschool retro slm lab coach ",__label__2
+" ipython-notebooks  :  data-science-ipython-notebooks ",__label__1
+" pattern_classification  :   ",__label__2
+" fusioncharts  :  nivo auto ml convnet.js clusterfck clustering.js decision trees dn2a figue gaussian mixture model node-fann keras.js kmeans.js lda.js learning.js machinelearn.js mil-tokyo node-svm brain brain.js bayesian-bandit synaptic knear neuraln kalman shaman ml.js ml5 pavlov.js mxnet tensorflow.js jsmlt xgboost-node netron webdnn ",__label__1
+" 2012-paper-diginorm  :   ",__label__2
+" train-on-housenumbers  :   ",__label__1
+" matlab  :  contourlets shearlets curvelets bandlets mexopencv nlp training a deep autoencoder or a classifier on mnist digits convolutional-recursive deep learning for 3d object classification spider libsvm thundersvm liblinear machine learning module caffe pattern recognition toolbox pattern recognition and machine learning optunity mxnet machine learning in matlab/octave matlab_bgl gaimc ",__label__2
+" neurolab  :  spearmint pebl theano tensorflow pomegranate python-timbl deap pydeep mlxtend neon optunity neural networks and deep learning annoy tpot digits orange mxnet milk tflearn rep rgf_python skbayes fuku-ml xcessiv pytorch ml-from-scratch edward xrbm catboost stacked_generalization modal parris neonrvm turi create xlearn mlens netron thampi mindsdb gorgonia scipy numpy numba mars networkx igraph pandas open mining pymc zipline pydy sympy statsmodels astropy matplotlib bokeh plotly altair d3py pydexter ggplot ggfortify kartograph.py pygal pyqtgraph petrel blaze emcee windml vispy seaborn bqplot pastalog superset dora ruffus sompy hdbscan visualize_ml scikit-plot bowtie lime pycm dash lambdo tensorwatch biopy svm explorer ",__label__1
+" chartjs  :   ",__label__2
+" bioruby  :   ",__label__1
+" cifar-10  :   ",__label__2
+" r  :  ahaz arules biglasso bmrm boruta bst c50 caret caretensemble catboost corelearn coxboost cubist e1071 earth elasticnet elemstatlearn evtree forecast forecasthybrid fpc frbs gamboost gamboostlss gbm glmnet glmpath gmmboost grplasso grpreg h2o hda ipred kernlab klar l0learn lars lasso2 liblinear logicreg maptree mboost medley mlr ncvreg nnet pamr party partykit penalized penalizedlda penalizedsvm quantregforest randomforest randomforestsrc rattle rda rdetools reemtree relaxo rgenoud rmalschains rminer rocr roughsets rpart rpmm rsnns rweka rxshrink sda spectralgraphtopology superlearner svmpath tgp tree varselrf xgboost.r optunity igraph mxnet tdsp-utilities ggplot2 ",__label__1
+" scheme  :  layer ",__label__2
+" sas  :  visual data mining and machine learning enterprise miner factory miner sas/stat university edition contextual analysis sentiment analysis text miner ml_tables enlighten-apply enlighten-integration enlighten-deep dm-flow ",__label__1
+" crystal  :  machine crystal-fann ",__label__2
+" .net  :  opencvdotnet emgu cv aforge.net accord.net stanford.nlp for .net accord.machinelearning diffsharp encog geneticsharp infer.net ml.net neural network designer vulpes numl math.net numerics sho ycml mlpneuralnet machinelearning bpn-neuralnetwork multi-perceptron-neuralnetwork krhebbian-algorithm krkmeans-algorithm krfuzzycmeans-algorithm ",__label__1
+" php  :  jieba-php php-ml predictionbuilder rubix ml 19 questions ",__label__2
+" amcharts  :  d3xter statkit datakit science.js z3d sigma.js c3.js datamaps zingchart cheminfo ",__label__1
+" coil  :   ",__label__2
+" ocaml  :  oml gpr libra-tk tensorflow ",__label__1
+" tensorflow  :  awesome tensorflow golden tensorflow ",__label__2
+" d3.js  :   ",__label__1
+" mst-based-segmenter  :   ",__label__2
+" julia  :  machinelearning mlbase pgm da regression local regression naive bayes mixed models simple mcmc distances decision tree neural mcmc mamba glm gaussian processes glmnet clustering svm kernel density multivariatestats nmf ann mocha xgboost manifoldlearning mxnet merlin rocanalysis gaussianmixtures scikitlearn knet flux topic models text analysis word tokenizers corpus loaders embeddings languages wordnet graph layout lightgraphs data frames meta julia data data read hypothesis tests gadfly stats rdatasets dataframes distributions data arrays time series sampling dsp juliacon presentations signalprocessing images datadeps ",__label__1
+" dimple  :   ",__label__2
+" hyperopt  :   ",__label__1
+" mnist  :   ",__label__2
+" rust  :  deeplearn-rs rustlearn rusty-machine leaf rustnn rusticsom ",__label__1
+" python  :  scikit-image simplecv vigranumpy openface pcv face_recognition dockerface detectron albumentations pytessarct imutils pytorchcv pkuseg-python nltk pattern quepy textblob yalign jieba snownlp spammy loso genius konlpy nut rosetta bllip parser pynlpl python-ucto python-frog python-zpar colibri-core spacy pystanforddependencies distance fuzzy wuzzy jellyfish editdistance textacy stanford-corenlp-python cltk rasa_nlu yase polyglot drqa dedupe snips nlu neuroner deeppavlov bigartm cntk auto_ml machine learning xgboost apache singa bayesian methods for hackers mllib in apache spark hydrosphere mist scikit-learn metric-learn astroml graphlab-create bigml pattern nupic pylearn2 keras lasagne hebel chainer prophet gensim topik pybrain brainstorm surprise crab python-recsys thinking bayes image-to-image translation with conditional adversarial networks bolt covertree nilearn neuropredict imbalanced-learn shogun pyevolve caffe breze pyhsmm mrjob skll ",__label__2
+" torch7  :  cephes autograd graph randomkit signal nn torchnet nngraph nnx rnn dpnn dp optim unsup manifold svm lbfgs vowpalwabbit opengm spaghetti luashkit kernel smoothing cutorch cunn imgraph videograph saliency stitch sfm fex overfeat wav2letter ",__label__1
+" perl  :   ",__label__2
+" decision-weights  :  sarah palin lda diffusion segmentation scipy tutorials crab bayespy scikit-learn tutorials sentiment-analyzer sentiment_classifier group-lasso jprocessing mne-python-notebooks neon course pandas cookbook climin allen downey’s data science course allen downey’s think bayes code allen downey’s think complexity code allen downey’s think os code python programming for the humanities greatcircle optunity examples dive into machine learning with python jupyter notebook and scikit-learn tdb suiron introduction to machine learning with scikit-learn practical xgboost in python introduction to machine learning with python pydata book homemade machine learning prodmodel the-elements-of-statistical-learning neuraltalk neuron data driven code open-solution-googleai-object-detection -> source code and experiments results for google ai open images wiki challenge kaggle insults kaggle_acquire-valued-shoppers-challenge kaggle-cifar kaggle-blackbox kaggle-accelerometer kaggle-advertised-salaries kaggle amazon kaggle-bestbuy_big ",__label__1
+" swift  :  bender swift ai braincore swix aitoolbox mlkit swift brain perfect tensorflow predictionbuilder awesome coreml awesome core ml models ",__label__2
+" misc  :  listof ",__label__1
+" java  :  cortical.io iris corenlp stanford parser stanford pos tagger stanford name entity recognizer stanford word segmenter tregex, tsurgeon and semgrex stanford english tokenizer stanford tokens regex stanford temporal tagger stanford spied stanford topic modeling toolbox twitter text java mallet opennlp lingpipe cleartk apache ctakes nlp4j cogcompnlp aerosolve amidst toolbox datumbox elki encog flinkml in apache flink h2o htm.java liblinear-java mahout meka mllib in apache spark hydrosphere mist neuroph oryx ranklib rapaio rapidminer stanford classifier smileminer systemml weka lbjava cmu sphinx flink hadoop onyx spark storm impala datamelt deeplearning4j keras beginner tutorial ",__label__2
+" train-on-cifar  :   ",__label__1
+" norb  :  atari2600 ",__label__2
+" haskell  :  haskell-ml hlearn hnn hopfield-networks dnngraph lambdanet ",__label__1
+" train-a-digit-classifier  :   ",__label__2
+" lua  :   ",__label__1
