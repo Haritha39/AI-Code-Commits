@@ -27,7 +27,7 @@ Mysql
 3. Checked out to the branch mentioned in webhook data.
 4. Read each and every file by walking through every sub directories and directories.
 5. This entire data will send to preprocessing.
-6. During Preprocessing , the data will be cleaned by removing stop words , lemmatization .
+6. During Preprocessing , the data will be cleaned by removing stop words , lemmatization etc.
 7. The important step in Preprocessing is , as our input data is only code - i took out the important keywords like libraries , modules names , packages etc by data cleaning .
 8. Took out the keywords which are not in actual dictionary , because they are simple english words .
 9. I created a machine learning (ai) corpus out of data i collected from one of the github repository :
