@@ -33,5 +33,13 @@ Mysql
 9. I created a machine learning (ai) corpus out of data i collected from one of the github repository :
     https://github.com/josephmisiti/awesome-machine-learning#apl
 10. I have checked if there is any matching of our data with the corpus .
-11. If matched , i considered it as AI commit,that's how the idea works
+11. If matched , i considered it as AI commit,that's how the idea works.
+
+
+### Notes
+
+1. I have used a separate database helper class for all sql operations.
+2. With the data in database ,we can draw statistics using grafana.
+3. I here took only push events while integrating the webhooks , as a next step i will do for forks .
+
 
