@@ -1,6 +1,6 @@
 from git import Repo
 
-def cloning( gitInfo, requestData ) :
+def cloning( gitInfo, requestData ,logger ) :
 
     repo_name = requestData["project"]["path_with_namespace"]
     project_id = requestData["project"]["id"]
@@ -22,8 +22,8 @@ def cloning( gitInfo, requestData ) :
                 + project_url[user_position :]
     try :
         clone_msg = git.Repo.clone_from( clone_url , projects_main_dir+project_id )
-        self.q_logger.info("clone msg : {0}\n'{1}' project is cloned successfully... ".format( clone_msg , project_id ) )
+        logger.info("clone msg : {0}\n'{1}' project is cloned successfully... ".format( clone_msg , project_id ) )
     except Exception as error :
-        self.q_logger.error("ERROR on cloing '{0}' project : {1}".format( project_id , error ) )
+        logger.error("ERROR on cloing '{0}' project : {1}".format( project_id , error ) )
         return -1
     return True
